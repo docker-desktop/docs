@@ -1,2 +1,3 @@
 # docs
-docs repository
+
+이 프로젝트에 필요한 문서를 정리한 저장소입니다. 
